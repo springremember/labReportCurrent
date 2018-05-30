@@ -1,0 +1,3 @@
+interface Web {
+    void show();
+}
